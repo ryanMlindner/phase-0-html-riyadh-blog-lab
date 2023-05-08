@@ -10,7 +10,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 103%;
 }
 
 .wrapper {
@@ -26,11 +26,12 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ffffffb2;
 }
 
 h1 {
   font-size: 3.5em;
+  margin-left: auto;
   margin-bottom: 0;
 }
 
